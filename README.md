@@ -8,3 +8,5 @@ The assignment is almost exactly what was asked of me, the only short coming is 
 uploading and saving as I ran out of time. Also to save time I used Materialize CSS to build a UI that doesnt look bad so that I can focus on the functionality.
 
 In a real world project I would take extra steps such as form and error handling as well as hashing passwords.
+
+The backend of the app which is built with Express and MongoDB has been deployed to Heroku.
